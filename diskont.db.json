@@ -1,0 +1,265 @@
+{
+  "proizvodi": [
+    {
+      "id": 3,
+      "naziv": "Jameson",
+      "cena": 1500,
+      "popust": 15,
+      "market": "Tempo",
+      "brojlajkova": 120,
+      "brojdislajkova": 65,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/12/33c8c8a415cf7484ed5c6c4d545b3756-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 4,
+      "naziv": "Test",
+      "cena": 13,
+      "popust": 16,
+      "market": "Roda",
+      "brojlajkova": 800,
+      "brojdislajkova": 600,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/12/f0478a4b5e4151001220db27f9b52516-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 5,
+      "naziv": "Red Label",
+      "cena": 1200,
+      "popust": 20,
+      "market": "Tempo",
+      "brojlajkova": 30,
+      "brojdislajkova": 40,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/d94f813c7f7730df3e2c93e2a99b76ec-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 6,
+      "naziv": "Ballantines",
+      "cena": "1000",
+      "popust": "60",
+      "market": "Maxi",
+      "brojlajkova": 73,
+      "brojdislajkova": 44,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/16c10692f9d27b12e6ffda7480096648-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 7,
+      "naziv": "Atlantic vodka",
+      "cena": "550",
+      "popust": "15",
+      "market": "Roda",
+      "brojlajkova": 3,
+      "brojdislajkova": 1,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/707e3cd020d9ca4507cb7babe617ca68-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 8,
+      "naziv": "Smirnoff vodka",
+      "cena": "1600",
+      "popust": "30",
+      "market": "Idea",
+      "brojlajkova": 14,
+      "brojdislajkova": 5,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/466cf9375339f5640500b885b7f8929c-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 9,
+      "naziv": "Knjaz kisela voda",
+      "cena": "60",
+      "popust": "15",
+      "market": "Roda",
+      "brojlajkova": 125,
+      "brojdislajkova": 44,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/676ed037b2b58c173fcedde9d4a61fa9-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 10,
+      "naziv": "Heba kisela voda",
+      "cena": "55",
+      "popust": "30",
+      "market": "Maxi",
+      "brojlajkova": 55,
+      "brojdislajkova": 44,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/84a28c7072e7f7910c40f3e8c0724d4d-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 11,
+      "naziv": "Akva viva",
+      "cena": "40",
+      "popust": "90",
+      "market": "Tempo",
+      "brojlajkova": 89,
+      "brojdislajkova": 69,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/b36faaa430fe7c0dfba2fff005c726f0-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 12,
+      "naziv": "Rosa",
+      "cena": "30",
+      "popust": "50",
+      "market": "Idea",
+      "brojlajkova": 2,
+      "brojdislajkova": 1,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/953ecee80e3e6ae6fe1faf7b54ebba58-full.png ",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 13,
+      "naziv": "Čips Marbo",
+      "cena": "40",
+      "popust": "13",
+      "market": "Roda",
+      "brojlajkova": 250,
+      "brojdislajkova": 15,
+      "tip": "Hrana",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/6ee851c9a8d1d57cca3c98079bbc8e62-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 14,
+      "naziv": "Smoki",
+      "cena": "30",
+      "popust": "5",
+      "market": "Maxi",
+      "brojlajkova": 33,
+      "brojdislajkova": 11,
+      "tip": "Hrana",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/f7c29c3e2f8fb34be616f3ed445160f9-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 15,
+      "naziv": "Milka",
+      "cena": "150",
+      "popust": "70",
+      "market": "Tempo",
+      "brojlajkova": 44,
+      "brojdislajkova": 20,
+      "tip": "Hrana",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/58c9203c2a6dbb9e9ec869ad730e6e92-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 16,
+      "naziv": "Eurokrem",
+      "cena": "175",
+      "popust": "33",
+      "market": "Idea",
+      "brojlajkova": 350,
+      "brojdislajkova": 100,
+      "tip": "Hrana",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/9002c2a8bbb3677b64c5f0108bc18ab1-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 17,
+      "naziv": "Nutela",
+      "cena": "350",
+      "popust": "60",
+      "market": "Roda",
+      "brojlajkova": 175,
+      "brojdislajkova": 50,
+      "tip": "Hrana",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/ef538bd7373749072b6c8cf425d1ea48-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 18,
+      "naziv": "Koka kola",
+      "cena": "60",
+      "popust": "20",
+      "market": "Maxi",
+      "brojlajkova": 78,
+      "brojdislajkova": 39,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/1efe5ae1b3f60d1098003993c904cfdf-full.png ",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 19,
+      "naziv": "Vinjak",
+      "cena": "850",
+      "popust": "44",
+      "market": "Tempo",
+      "brojlajkova": 0,
+      "brojdislajkova": 0,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/c13680864ca748f7d43ba704b16710b7-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    },
+    {
+      "id": 20,
+      "naziv": "Sveps",
+      "cena": "120",
+      "popust": "30",
+      "market": "Idea",
+      "brojlajkova": 0,
+      "brojdislajkova": 0,
+      "tip": "Piće",
+      "slika": "https://cdn1.imggmi.com/uploads/2018/5/30/de8e3a073c9dcdf2c09143500623ea43-full.png",
+      "lajkallow": true,
+      "dislajkallow": true
+    }
+  ],
+  "administratori": [
+    {
+      "username": "Aleksa",
+      "password": "Simic",
+      "market": "Tempo"
+    },
+    {
+      "username": "Selena",
+      "password": "Simic",
+      "market": "Metro"
+    },
+    {
+      "username": "Milan",
+      "password": "Simjanovski",
+      "market": "Maxi"
+    },
+    {
+      "username": "Djordje",
+      "password": "Mitic",
+      "market": "Idea"
+    },
+    {
+      "username": "Korisnik",
+      "password": "Simic",
+      "market": "Roda"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+html{
+  height:100%;
+  width:100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: url("https://cdn1.imggmi.com/uploads/2018/5/12/ff2be9506ef7af988551304e3639a058-full.jpg");
+  height:100%;
+  width:100%;
+}
+.levi{
+  float:left;
+}
+.carousel{
+  width:600px;
+  float: right;
+}
+.kontejnerzaliste{
+  width:600px;
+  float:right;
+}
+.levalista{
+  height:600px;
+  width:50%;
+  overflow-y: scroll;
+  float:left;
+
+}
+.tekstovi{
+  color:#b1005b;
+  font-weight: bold;
+  width:50%;
+  float:left;
+  text-align: center;
+  vertical-align: middle;
+  margin-top:20px;
+}
+.tekstovitri{
+  color:#b1005b;
+  font-weight: bold;
+  float:left;
+  text-align: center;
+  vertical-align: middle;
+  margin-top:20px;
+  
+}
+.tekstovidva{
+  color:#b1005b;
+  font-weight: bold;
+  width:50%;
+  text-align: center;
+  vertical-align: middle;
+  float:right;
+  margin-right:120px;
+}
+.desnalista{
+  height:600px;
+  width:50%;
+  overflow-y: scroll;
+  float:right;
+
+}
+.zaproizvode{
+  height:600px;
+  width:300px;
+  overflow-y: scroll;
+  float:left;
+}
+.zaelemente{
+  height:300px;
+  width:300px;
+}
+.card-img-top{
+height:40%;
+width:40%;
+}
+.divzaelement{
+  width:280px;
+  height:350px;
+  border-bottom: 2px solid#b1005b;
+  border-top:2px solid#b1005b;
+  border-left:4px solid#b1005b;
+  border-right: 4px solid#b1005b;
+  background-color:white;
+
+}
+
+.test{
+  height:500px;
+}
+
+.levi{
+  width:40%;
+  margin-top:50px;
+  
+
+}
+.form-control{
+  width:100%;
+}
+.form-group{
+  height:50%;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.carousel-control-prev{
+  background-color:#b1005b;
+  height:200px;
+}
+.carousel-control-next{
+  background-color:#b1005b;
+  height:200px;
+}
+.containter{
+  background-color:#b1005b;
+}
+.navbar{
+  background-color:#b1005b;
+  height:100px;
+}
+.py-5{
+  background-color:#b1005b;
+  height:100px;
+}
+.btn-danger{
+  background-color:#b1005b;
+}
+.btn-primary{
+  background-color:#b1005b;
+}
+.modal-title{
+  color:#b1005b;
+  font-weight: bold;
+}
+.formdivs{
+  float:left;
+  color:#b1005b;
+  font-weight: bold;
+}
+.myspan{
+  color:#b1005b;
+  font-weight: bold;
+}
+.mojedugme{
+  background-color:#b1005b;
+  color:white;
+  font-weight: bold;
+}
+.zaslike_levo{
+  float:left;
+  margin-left:50px;
+}
+
+.slike{
+  height:35px;
+  width :35px;
+}
+.zabrojke{
+  
+  float:left;
+  
+}
+.labele{
+  color:#b1005b;
+  font-weight:bold;
+}
+.arm{
+  color:#b1005b;
+  font-weight: bold;
+  float:left;
+  width:50%;
+  
+}
+.Dodatni{
+  clear:both;
+  float:center;
+  color:#b1005b;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left:50px;
+  margin-top:50px;
+  margin-bottom: 50px;
+}
+.Dodatnidva{
+ 
+}
